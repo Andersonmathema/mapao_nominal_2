@@ -20,6 +20,7 @@ ENV/
 *.json
 *.db
 *.sqlite3
+*.xlsx
 
 # Cache e relatórios de testes
 *.log
